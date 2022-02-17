@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/cover.jpg);
+    height: 100vh;
+    width: 100%;
+}
+ul{
+    float:right;
+    list-style-type: none;
+    margin-top: 25px;
+    margin-right: 25px;
+}
+
+ul li{
+    display:inline-flex;
+}
+
+ul li a{
+    text-decoration: solid;
+    color:white;
+    padding: 5px 20px;
+    border: 1px solid;
+    transition: 0.5s ease;
+    border-radius: 10px;
+}
+
+ul li a:hover{
+    background-color:#FBCEB1;
+    color: #D27D2D;
+}
+
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.title h1{
+    color:beige;
+    font-size: 50px;
+    font-family:serif;
+}
+.title p{
+    color:cornsilk;
+    position: absolute;
+    top: 90%;
+    left: 40%;
+}
+
+.line{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    color: #002366;
+    font-family:sans-serif;
+}
+h1{
+    color:teal;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.row{
+    display: flex;
+}
+.pictures{
+    flex: 33.33%;
+    padding: 50px;
+}
+.layer1{
+    background: transparent;
+    height: 600px;
+    width: 400px;
+    position: absolute;
+    transition: 0.5s;
+}
+.layer1:hover{
+    background: rgb(255,228,225,0.6);
+}
+.layer2{
+    background: transparent;
+    height: 600px;
+    width: 400px;
+    position: absolute;
+    transition: 0.5s;
+}
+.layer2:hover{
+    background: rgb(155,196,226,0.6);
+}
+.layer3{
+    background: transparent;
+    height: 600px;
+    width: 400px;
+    position: absolute;
+    transition: 0.5s;
+}
+.layer3:hover{
+    background: rgb(210,180,140,0.6);
+}

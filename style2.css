@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 10;
+}
+
+.parag1{
+    padding: 150px;
+    border:5px solid black;
+    width: 500px;
+    margin:70px;
+    position: center;
+    background-image: url("./images/dying\ roses.jpg");
+    background-size: cover;
+    color: white;
+    position: center;
+}
+
+.parag2{
+    padding: 50px;
+    border:5px solid white;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size:cover;
+    color: wheat;
+    text-align: right;
+    background-attachment: fixed;
+}
+.parag{
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url("./images/pink\ flowers.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.parag3{
+    padding: 50px;
+    border:5px solid wheat;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: right;
+    background-attachment: fixed;
+}
+
+.parag4{
+    padding: 50px;
+    border:5px solid white;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size:cover;
+    color: wheat;
+    text-align: right;
+    background-attachment: fixed;
+}
+
+.parag5{
+    padding: 50px;
+    border:5px solid wheat;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)), url("./images/dying\ roses.jpg");
+    background-size:cover;
+    color: white;
+    text-align: right;
+    background-attachment: fixed;
+}
+
+.parag6{
+    padding: 50px;
+    border:5px solid white;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size: cover;
+    color: wheat;
+    text-align: right;
+    background-attachment: fixed;
+}
+
+.parag8{
+    display: flex;
+}
+
+
+.parag9{
+    padding: 50px;
+    border:5px solid white;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size: cover;
+    color: wheat;
+    text-align: right;
+    background-attachment: fixed;
+}
+
+.parag10{
+    padding: 50px;
+    border:5px solid white;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size: cover;
+    color: wheat;
+    text-align: right;
+    background-attachment: fixed;
+}
+
+.parag11{
+    padding: 50px;
+    border:5px solid white;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size: cover;
+    color: wheat;
+    text-align: right;
+    background-attachment: fixed;
+}
+
+.parag12{
+    padding: 50px;
+    border:5px solid white;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size: cover;
+    color: wheat;
+    text-align: right;
+    background-attachment: fixed;
+}
+
+.parag13{
+    display: flex;
+}
+
+
+.parag20{
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url("./images/cover2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.parag18{
+    display: flex;
+}
+
+.parag14{
+    padding: 50px;
+    border:5px solid wheat;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: right;
+    background-attachment: fixed;
+}
+
+.parag15{
+    padding: 50px;
+    border:5px solid wheat;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: right;
+    background-attachment: fixed;
+}
+
+.parag16{
+    padding: 50px;
+    border:5px solid wheat;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: right;
+    background-attachment: fixed;
+}
+
+.parag17{
+    padding: 50px;
+    border:5px solid wheat;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: right;
+    background-attachment: fixed;
+}
+
+.parag19{
+    padding: 50px;
+    border:5px solid wheat;
+    width: 250px;
+    margin:20px;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url("./images/dying\ roses.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: right;
+    background-attachment: fixed;
+}

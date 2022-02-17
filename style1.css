@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:rgb(169,169,169,033.33%);
+}
+.para1{
+    background-image: url('./images/forest.jpg');
+    width:100%;
+    height: 90vh;
+    background-position:center;
+    background-size:cover ;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+.para{
+    background-image: url('./images/forest.jpg');
+    width:100%;
+    height: 100vh;
+    background-position:center;
+    background-size:cover ;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+
+.para1{
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    
+}
+.para2{
+    background-image: url('./images/lavender.jpg');
+    width:100%;
+    height: 200vh;
+    background-position:center;
+    background-size:cover ;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+
+.para1 p:hover{
+    background-color:rgb(240,255,240,0.7) ;
+}
+.para1 h1:hover{
+    background-color:rgba(255,255,255,0.6) ;
+}
+
+.para2 p:hover{
+    background-color:rgb(221,160,221,0.9) ;
+}
+
+.para2 h1:hover{
+    background-color:rgb(218,165,32,0.6) ;
+}
+
+.para3 h1:hover{
+    background-color: rgb(47,79,79,0.9);
+}
+
+.para3 p:hover{
+    background-color: rgb(218,165,32,0.9);
+}
+
+.health h1{
+    background: rgba(255,255,255,0.4);
+    width:50%;
+    padding:50px;
+    font-size: 7vmin;
+    margin: 20px;
+}
+.health p{
+    margin-top: 5%;
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 31%;
+    background:  rgb(240,255,240,0.4);
+    margin-bottom: 5%;
+    padding: 60px;
+    width: 50%;
+    box-sizing: border-box;
+}
+.health1 h1{
+    background:rgb(255,250,205,0.2);
+    width:50%;
+    padding:50px;
+    font-size: 7vmin;
+    margin: 0px;
+    margin-left: 600px;
+}
+.para3{
+    background-image: url('./images/cuctus.jpg');
+    width:100%;
+    height: 80vh;
+    background-position:center;
+    background-size:cover ;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+.health1 p{
+    margin-top: 5%;
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 31%;
+    background: rgb(221,160,221,0.6);
+    margin-bottom: 5%;
+    padding: 50px;
+    width: 50%;
+    box-sizing: border-box;
+    align-self: center;
+}
+
+.health2 h1{
+    background: rgb(47,79,79,0.7);
+    width:30%;
+    padding:50px;
+    font-size: 7vmin;
+    margin: 40px;
+    margin-left: 500px;
+    text-decoration-color: lavenderblush;
+    text-decoration: solid;
+    color:white;
+}
+
+.health2 p{
+    margin-top: 5%;
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 31%;
+    background: rgb(218,165,32,0.8);
+    margin-bottom: 5%;
+    padding: 50px;
+    width: 50%;
+    box-sizing: border-box;
+    align-self: center;
+}
+.para5{
+    margin-right: 100px;
+    right: 70%;
+}
